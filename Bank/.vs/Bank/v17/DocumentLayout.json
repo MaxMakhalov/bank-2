@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041C\u0414\u041A\\05.03\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211611\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6864B8C-E833-45B5-A430-3B6AA81E13FB}|..\\BankTest\\BankTest.csproj|d:\\\u043C\u0434\u043A\\05.03\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211611\\banktest\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75401DB6-3E41-4E36-9F1B-930D83B459A7}|Bank.csproj|D:\\\u041C\u0414\u041A\\05.03\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211611\\Bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75401DB6-3E41-4E36-9F1B-930D83B459A7}|Bank.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "D:\\\u041C\u0414\u041A\\05.03\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211611\\BankTest\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "..\\BankTest\\BankAccountTests.cs",
+              "ToolTip": "D:\\\u041C\u0414\u041A\\05.03\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211611\\BankTest\\BankAccountTests.cs",
+              "RelativeToolTip": "..\\BankTest\\BankAccountTests.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA4wFwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:43:25.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\\u041C\u0414\u041A\\05.03\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211611\\Bank\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "D:\\\u041C\u0414\u041A\\05.03\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211611\\Bank\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:27:05.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\МДК\05.03\Практическая работа №11\Bank\bin\Debug\Bank.exe.config
+D:\МДК\05.03\Практическая работа №11\Bank\bin\Debug\Bank.exe
+D:\МДК\05.03\Практическая работа №11\Bank\bin\Debug\Bank.pdb
+D:\МДК\05.03\Практическая работа №11\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\МДК\05.03\Практическая работа №11\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\МДК\05.03\Практическая работа №11\Bank\obj\Debug\Bank.exe
+D:\МДК\05.03\Практическая работа №11\Bank\obj\Debug\Bank.pdb
